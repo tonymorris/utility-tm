@@ -4,6 +4,7 @@ License:            BSD3
 License-File:       LICENSE
 Author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
 Maintainer:         Tony Morris
+Copyright:          Tony Morris
 Synopsis:           Utility functions that are missing from the standard library
 Category:           Development
 Description:        Utility functions that are missing from the standard library
