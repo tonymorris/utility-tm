@@ -1,7 +1,7 @@
 :set -isrc
 :m + Test.QuickCheck
-:l M
-:m + M
+:l Control.Monad.TM
+:m + Control.Monad.TM
 :set prompt ">> "
 :set -Wall
 

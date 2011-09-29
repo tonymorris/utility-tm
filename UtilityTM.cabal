@@ -1,15 +1,14 @@
-Name:               Haskell-Package
-Version:            0.0.1
+Name:               UtilityTM
+Version:            0.0.4
 License:            BSD3
 License-File:       LICENSE
 Author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
 Maintainer:         Tony Morris
-Copyright:          Tony Morris
-Synopsis:           A skeleton for creating haskell packages
+Synopsis:           Utility functions that are missing from the standard library
 Category:           Development
-Description:        A skeleton for creating haskell packages
-Homepage:           https://github.com/tonymorris/haskell-package
-Cabal-Version:      >= 1.2
+Description:        Utility functions that are missing from the standard library
+Homepage:           https://github.com/tonymorris/utility-tm
+Cabal-version:      >= 1.2
 Build-Type:         Simple
 
 Flag small_base
@@ -26,5 +25,5 @@ Library
                     src
 
   Exposed-Modules:
-                    M
+                      Control.Monad.TM
 
