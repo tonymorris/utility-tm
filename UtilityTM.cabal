@@ -16,9 +16,6 @@ Source-Repository   head
   Type:             git
   Location:         git@github.com:tonymorris/utility-tm.git
 
-Flag                small_base
-  Description:      Choose the new, split-up base package.
-
 Library
   Build-Depends:
                     base < 5 && >= 3
